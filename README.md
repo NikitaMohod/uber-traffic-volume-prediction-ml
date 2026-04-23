@@ -3,7 +3,7 @@
 
 ## Project Overview
 - The aim of this project is to analyze **traffic volume data** and evaluate how various factors like weather, time, and calendar attributes affect traffic.  
-- We build and compare **Machine Learning models** (Linear Regression, Random Forest, XGBoost) to predict traffic volume and generate actionable insights for **businesses like Uber** to optimize driver allocation, surge pricing, and demand forecasting.
+- We build and compare **Machine Learning models** (Linear Regression, Random Forest) to predict traffic volume and generate actionable insights for **businesses like Uber** to optimize driver allocation, surge pricing, and demand forecasting.
 
 ---
 
